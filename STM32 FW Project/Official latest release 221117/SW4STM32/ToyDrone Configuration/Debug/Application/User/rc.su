@@ -1,0 +1,9 @@
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official latest release 221117/Src/rc.c:83:6:init_remote_control	8	static
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official latest release 221117/Src/rc.c:100:6:init_rc_variables	16	static
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official latest release 221117/Src/rc.c:113:6:HAL_TIM_IC_CaptureCallback	24	static
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official latest release 221117/Src/rc.c:174:6:HAL_SYSTICK_Callback	8	static
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official latest release 221117/Src/rc.c:188:6:update_rc_data	16	static
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official latest release 221117/Src/rc.c:214:6:GetTargetEulerAngle	16	static
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official latest release 221117/Src/rc.c:257:6:init_queue	24	static
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official latest release 221117/Src/rc.c:273:6:add_queue	24	static
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official latest release 221117/Src/rc.c:303:9:get_queue	24	static

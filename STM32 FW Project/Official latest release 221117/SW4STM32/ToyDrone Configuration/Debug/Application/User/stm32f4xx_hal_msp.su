@@ -1,0 +1,9 @@
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official latest release 221117/Src/stm32f4xx_hal_msp.c:45:6:HAL_MspInit	8	static
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official latest release 221117/Src/stm32f4xx_hal_msp.c:62:6:HAL_ADC_MspInit	40	static
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official latest release 221117/Src/stm32f4xx_hal_msp.c:89:6:HAL_ADC_MspDeInit	16	static
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official latest release 221117/Src/stm32f4xx_hal_msp.c:112:6:HAL_SPI_MspInit	40	static
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official latest release 221117/Src/stm32f4xx_hal_msp.c:218:6:HAL_SPI_MspDeInit	16	static
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official latest release 221117/Src/stm32f4xx_hal_msp.c:268:6:HAL_TIM_Base_MspInit	48	static
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official latest release 221117/Src/stm32f4xx_hal_msp.c:342:6:HAL_TIM_Base_MspDeInit	16	static
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official latest release 221117/Src/stm32f4xx_hal_msp.c:406:6:HAL_UART_MspInit	40	static
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official latest release 221117/Src/stm32f4xx_hal_msp.c:439:6:HAL_UART_MspDeInit	16	static

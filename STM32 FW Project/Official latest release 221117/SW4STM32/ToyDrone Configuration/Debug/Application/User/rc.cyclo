@@ -1,0 +1,9 @@
+rc.c:83:6:init_remote_control	1
+rc.c:100:6:init_rc_variables	2
+rc.c:113:6:HAL_TIM_IC_CaptureCallback	10
+rc.c:174:6:HAL_SYSTICK_Callback	3
+rc.c:188:6:update_rc_data	13
+rc.c:214:6:GetTargetEulerAngle	12
+rc.c:257:6:init_queue	2
+rc.c:273:6:add_queue	5
+rc.c:303:9:get_queue	4
