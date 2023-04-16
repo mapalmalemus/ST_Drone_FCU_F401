@@ -1,0 +1,13 @@
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official latest release 221117/Src/main.c:158:6:main	128	static
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official latest release 221117/Src/main.c:462:6:SystemClock_Config	88	static
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official latest release 221117/Src/main.c:511:6:MX_ADC1_Init	24	static
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official latest release 221117/Src/main.c:541:6:MX_SPI1_Init	8	static
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official latest release 221117/Src/main.c:561:6:MX_SPI2_Init	8	static
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official latest release 221117/Src/main.c:581:6:MX_TIM2_Init	48	static
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official latest release 221117/Src/main.c:619:6:MX_TIM4_Init	64	static
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official latest release 221117/Src/main.c:665:6:MX_TIM9_Init	24	static
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official latest release 221117/Src/main.c:683:6:MX_USART1_UART_Init	8	static
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official latest release 221117/Src/main.c:707:6:MX_GPIO_Init	40	static
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official latest release 221117/Src/main.c:731:6:HAL_TIM_PeriodElapsedCallback	48	static
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official latest release 221117/Src/main.c:911:13:initializeAllSensors	8	static
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official latest release 221117/Src/main.c:947:6:enableAllSensors	8	static

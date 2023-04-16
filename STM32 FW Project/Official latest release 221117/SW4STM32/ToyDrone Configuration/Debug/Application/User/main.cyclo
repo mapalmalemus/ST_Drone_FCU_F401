@@ -1,0 +1,13 @@
+main.c:158:6:main	12
+main.c:462:6:SystemClock_Config	1
+main.c:511:6:MX_ADC1_Init	1
+main.c:541:6:MX_SPI1_Init	1
+main.c:561:6:MX_SPI2_Init	1
+main.c:581:6:MX_TIM2_Init	1
+main.c:619:6:MX_TIM4_Init	1
+main.c:665:6:MX_TIM9_Init	1
+main.c:683:6:MX_USART1_UART_Init	1
+main.c:707:6:MX_GPIO_Init	1
+main.c:731:6:HAL_TIM_PeriodElapsedCallback	14
+main.c:911:13:initializeAllSensors	5
+main.c:947:6:enableAllSensors	1
