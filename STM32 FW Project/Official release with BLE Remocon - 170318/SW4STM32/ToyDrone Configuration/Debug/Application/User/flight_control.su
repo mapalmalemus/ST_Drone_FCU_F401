@@ -1,0 +1,5 @@
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release with BLE Remocon - 170318/Src/flight_control.c:21:6:PIDControlInit	16	static
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release with BLE Remocon - 170318/Src/flight_control.c:56:6:FlightControlPID	32	static
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release with BLE Remocon - 170318/Src/flight_control.c:153:6:FlightControlPID_OuterLoop	32	static
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release with BLE Remocon - 170318/Src/flight_control.c:192:6:FlightControlPID_innerLoop	32	static
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release with BLE Remocon - 170318/Src/flight_control.c:273:6:PIDOuterLoopFrameTrans	24	static
