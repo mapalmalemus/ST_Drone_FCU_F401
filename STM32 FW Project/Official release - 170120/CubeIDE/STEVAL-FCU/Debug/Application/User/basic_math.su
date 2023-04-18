@@ -1,2 +1,2 @@
-basic_math.c:4:7:Sqrt	24	static
-basic_math.c:28:7:invSqrt	32	static
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release - 170120/Src/basic_math.c:4:7:Sqrt	24	static
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release - 170120/Src/basic_math.c:28:7:invSqrt	32	static

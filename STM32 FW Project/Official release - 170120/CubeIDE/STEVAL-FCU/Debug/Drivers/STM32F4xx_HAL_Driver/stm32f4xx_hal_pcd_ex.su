@@ -1,2 +1,2 @@
-stm32f4xx_hal_pcd_ex.c:91:19:HAL_PCDEx_SetTxFiFo	24	static
-stm32f4xx_hal_pcd_ex.c:133:19:HAL_PCDEx_SetRxFiFo	16	static
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release - 170120/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pcd_ex.c:91:19:HAL_PCDEx_SetTxFiFo	24	static
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release - 170120/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pcd_ex.c:133:19:HAL_PCDEx_SetRxFiFo	16	static

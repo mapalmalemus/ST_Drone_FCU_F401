@@ -1,11 +1,11 @@
-bluenrg_utils.c:73:17:updater_calc_crc	40	static
-bluenrg_utils.c:97:5:program_device	72	static
-bluenrg_utils.c:192:5:read_IFR	32	static
-bluenrg_utils.c:221:6:parse_IFR_data_config	16	static
-bluenrg_utils.c:232:5:IFR_validate	16	static
-bluenrg_utils.c:250:6:change_IFR_data_config	16	static
-bluenrg_utils.c:262:5:program_IFR	2168	static
-bluenrg_utils.c:339:9:verify_IFR	96	static
-bluenrg_utils.c:365:9:getBlueNRGVersion	48	static
-bluenrg_utils.c:388:9:getBlueNRGUpdaterVersion	16	static
-bluenrg_utils.c:406:9:isHWBootloader_Patched	24	static
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release - 170120/Middlewares/ST/STM32_BlueNRG/SimpleBlueNRG_HCI/hci/controller/bluenrg_utils.c:73:17:updater_calc_crc	40	static
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release - 170120/Middlewares/ST/STM32_BlueNRG/SimpleBlueNRG_HCI/hci/controller/bluenrg_utils.c:97:5:program_device	72	static
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release - 170120/Middlewares/ST/STM32_BlueNRG/SimpleBlueNRG_HCI/hci/controller/bluenrg_utils.c:192:5:read_IFR	32	static
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release - 170120/Middlewares/ST/STM32_BlueNRG/SimpleBlueNRG_HCI/hci/controller/bluenrg_utils.c:221:6:parse_IFR_data_config	16	static
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release - 170120/Middlewares/ST/STM32_BlueNRG/SimpleBlueNRG_HCI/hci/controller/bluenrg_utils.c:232:5:IFR_validate	16	static
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release - 170120/Middlewares/ST/STM32_BlueNRG/SimpleBlueNRG_HCI/hci/controller/bluenrg_utils.c:250:6:change_IFR_data_config	16	static
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release - 170120/Middlewares/ST/STM32_BlueNRG/SimpleBlueNRG_HCI/hci/controller/bluenrg_utils.c:262:5:program_IFR	2168	static
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release - 170120/Middlewares/ST/STM32_BlueNRG/SimpleBlueNRG_HCI/hci/controller/bluenrg_utils.c:339:9:verify_IFR	96	static
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release - 170120/Middlewares/ST/STM32_BlueNRG/SimpleBlueNRG_HCI/hci/controller/bluenrg_utils.c:365:9:getBlueNRGVersion	48	static
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release - 170120/Middlewares/ST/STM32_BlueNRG/SimpleBlueNRG_HCI/hci/controller/bluenrg_utils.c:388:9:getBlueNRGUpdaterVersion	16	static
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release - 170120/Middlewares/ST/STM32_BlueNRG/SimpleBlueNRG_HCI/hci/controller/bluenrg_utils.c:406:9:isHWBootloader_Patched	24	static

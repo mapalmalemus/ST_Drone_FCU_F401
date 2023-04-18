@@ -1,5 +1,5 @@
-quaternion.c:6:6:QuaternionNorm	24	static
-quaternion.c:21:6:QuaternionMult	40	static
-quaternion.c:40:6:QuaternionRotation	80	static
-quaternion.c:67:6:QuaternionConj	16	static
-quaternion.c:78:6:QuaternionToEuler	72	static
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release - 170120/Src/quaternion.c:6:6:QuaternionNorm	24	static
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release - 170120/Src/quaternion.c:21:6:QuaternionMult	40	static
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release - 170120/Src/quaternion.c:40:6:QuaternionRotation	80	static
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release - 170120/Src/quaternion.c:67:6:QuaternionConj	16	static
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release - 170120/Src/quaternion.c:78:6:QuaternionToEuler	72	static
