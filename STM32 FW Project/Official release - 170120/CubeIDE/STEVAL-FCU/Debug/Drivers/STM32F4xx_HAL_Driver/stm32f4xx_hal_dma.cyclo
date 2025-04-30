@@ -1,15 +1,15 @@
-stm32f4xx_hal_dma.c:189:19:HAL_DMA_Init	7
-stm32f4xx_hal_dma.c:323:19:HAL_DMA_DeInit	3
-stm32f4xx_hal_dma.c:413:19:HAL_DMA_Start	3
-stm32f4xx_hal_dma.c:457:19:HAL_DMA_Start_IT	4
-stm32f4xx_hal_dma.c:520:19:HAL_DMA_Abort	6
-stm32f4xx_hal_dma.c:587:19:HAL_DMA_Abort_IT	2
-stm32f4xx_hal_dma.c:617:19:HAL_DMA_PollForTransfer	15
-stm32f4xx_hal_dma.c:753:6:HAL_DMA_IRQHandler	32
-stm32f4xx_hal_dma.c:974:19:HAL_DMA_RegisterCallback	9
-stm32f4xx_hal_dma.c:1034:19:HAL_DMA_UnRegisterCallback	10
-stm32f4xx_hal_dma.c:1119:22:HAL_DMA_GetState	1
-stm32f4xx_hal_dma.c:1130:10:HAL_DMA_GetError	1
-stm32f4xx_hal_dma.c:1156:13:DMA_SetConfig	2
-stm32f4xx_hal_dma.c:1190:17:DMA_CalcBaseAndBitshift	2
-stm32f4xx_hal_dma.c:1218:26:DMA_CheckFifoParam	18
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release - 170120/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c:189:19:HAL_DMA_Init	7
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release - 170120/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c:323:19:HAL_DMA_DeInit	3
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release - 170120/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c:413:19:HAL_DMA_Start	3
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release - 170120/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c:457:19:HAL_DMA_Start_IT	4
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release - 170120/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c:520:19:HAL_DMA_Abort	6
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release - 170120/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c:587:19:HAL_DMA_Abort_IT	2
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release - 170120/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c:617:19:HAL_DMA_PollForTransfer	15
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release - 170120/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c:753:6:HAL_DMA_IRQHandler	32
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release - 170120/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c:974:19:HAL_DMA_RegisterCallback	9
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release - 170120/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c:1034:19:HAL_DMA_UnRegisterCallback	10
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release - 170120/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c:1119:22:HAL_DMA_GetState	1
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release - 170120/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c:1130:10:HAL_DMA_GetError	1
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release - 170120/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c:1156:13:DMA_SetConfig	2
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release - 170120/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c:1190:17:DMA_CalcBaseAndBitshift	2
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release - 170120/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c:1218:26:DMA_CheckFifoParam	18

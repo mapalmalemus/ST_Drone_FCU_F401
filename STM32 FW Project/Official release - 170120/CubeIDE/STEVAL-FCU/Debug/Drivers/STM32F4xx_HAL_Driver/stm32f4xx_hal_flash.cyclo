@@ -1,17 +1,17 @@
-stm32f4xx_hal_flash.c:174:19:HAL_FLASH_Program	6
-stm32f4xx_hal_flash.c:232:19:HAL_FLASH_Program_IT	5
-stm32f4xx_hal_flash.c:279:6:HAL_FLASH_IRQHandler	9
-stm32f4xx_hal_flash.c:397:13:HAL_FLASH_EndOfOperationCallback	1
-stm32f4xx_hal_flash.c:414:13:HAL_FLASH_OperationErrorCallback	1
-stm32f4xx_hal_flash.c:446:19:HAL_FLASH_Unlock	2
-stm32f4xx_hal_flash.c:466:19:HAL_FLASH_Lock	1
-stm32f4xx_hal_flash.c:478:19:HAL_FLASH_OB_Unlock	2
-stm32f4xx_hal_flash.c:498:19:HAL_FLASH_OB_Lock	1
-stm32f4xx_hal_flash.c:510:19:HAL_FLASH_OB_Launch	1
-stm32f4xx_hal_flash.c:547:10:HAL_FLASH_GetError	1
-stm32f4xx_hal_flash.c:561:19:FLASH_WaitForLastOperation	7
-stm32f4xx_hal_flash.c:617:13:FLASH_Program_DoubleWord	1
-stm32f4xx_hal_flash.c:643:13:FLASH_Program_Word	1
-stm32f4xx_hal_flash.c:668:13:FLASH_Program_HalfWord	1
-stm32f4xx_hal_flash.c:693:13:FLASH_Program_Byte	1
-stm32f4xx_hal_flash.c:710:13:FLASH_SetErrorCode	7
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release - 170120/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c:174:19:HAL_FLASH_Program	6
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release - 170120/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c:232:19:HAL_FLASH_Program_IT	5
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release - 170120/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c:279:6:HAL_FLASH_IRQHandler	9
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release - 170120/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c:397:13:HAL_FLASH_EndOfOperationCallback	1
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release - 170120/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c:414:13:HAL_FLASH_OperationErrorCallback	1
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release - 170120/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c:446:19:HAL_FLASH_Unlock	2
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release - 170120/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c:466:19:HAL_FLASH_Lock	1
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release - 170120/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c:478:19:HAL_FLASH_OB_Unlock	2
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release - 170120/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c:498:19:HAL_FLASH_OB_Lock	1
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release - 170120/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c:510:19:HAL_FLASH_OB_Launch	1
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release - 170120/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c:547:10:HAL_FLASH_GetError	1
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release - 170120/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c:561:19:FLASH_WaitForLastOperation	7
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release - 170120/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c:617:13:FLASH_Program_DoubleWord	1
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release - 170120/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c:643:13:FLASH_Program_Word	1
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release - 170120/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c:668:13:FLASH_Program_HalfWord	1
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release - 170120/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c:693:13:FLASH_Program_Byte	1
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release - 170120/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c:710:13:FLASH_SetErrorCode	7

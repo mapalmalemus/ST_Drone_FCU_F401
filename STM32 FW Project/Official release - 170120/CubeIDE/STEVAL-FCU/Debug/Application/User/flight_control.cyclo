@@ -1,5 +1,5 @@
-flight_control.c:21:6:PIDControlInit	1
-flight_control.c:56:6:FlightControlPID	18
-flight_control.c:153:6:FlightControlPID_OuterLoop	8
-flight_control.c:192:6:FlightControlPID_innerLoop	14
-flight_control.c:273:6:PIDOuterLoopFrameTrans	1
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release - 170120/Src/flight_control.c:21:6:PIDControlInit	1
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release - 170120/Src/flight_control.c:56:6:FlightControlPID	18
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release - 170120/Src/flight_control.c:153:6:FlightControlPID_OuterLoop	8
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release - 170120/Src/flight_control.c:192:6:FlightControlPID_innerLoop	14
+/Users/miguelpalma/STM32CubeIDE/workspace_1.12.0/ST_Drone_FCU_F401/STM32 FW Project/Official release - 170120/Src/flight_control.c:273:6:PIDOuterLoopFrameTrans	1
